@@ -32,7 +32,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-> Tools, languages, and other things that I like to work with.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/img/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+<!-- > Tools, languages, and other things that I like to work with. -->
 <!-- 
 <table>
   <tr>

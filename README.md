@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/img/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="700"/><br>
+<img src="https://github.com/bahrulajisantoso/bahrulajisantoso/img/dino_rounded.gif?raw=true" href="https://github.com/bahrulajisantoso" width="700"/><br>
 <!-- > Tools, languages, and other things that I like to work with. -->
 <!-- 
 <table>
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <!-- 
 <h2 align="left">Coding Activity</h2>
 
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph) -->
+<!-- > Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph) --> -->
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->

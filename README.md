@@ -1,5 +1,7 @@
 ### Hello Bro 👋
 
+<img src="./gif/hello.gif" href="https://github.com/bahrulajisantoso"/><br>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -32,7 +34,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img src="./img/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="700"/><br>
+<img src="./gif/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="700"/><br>
+
+
 <!-- > Tools, languages, and other things that I like to work with. -->
 <!-- 
 <table>
@@ -115,5 +119,5 @@ Here are some ideas to get you started:
 [84.51°]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/bahrulajisantoso/bahrulajisantoso/issues "bahrulajisantoso/issues"
 [linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
- -->
+ <!-- --> -->
 

@@ -1,6 +1,6 @@
 ### Hello Bro 👋
 
-<img src="./gif/hello.gif" href="https://github.com/bahrulajisantoso"/><br>
+<img width="20%" height="20%" src="./gif/hello.gif" href="https://github.com/bahrulajisantoso"/><br>
 
 Here are some ideas to get you started:
 

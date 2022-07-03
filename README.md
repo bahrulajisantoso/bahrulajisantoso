@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img src="https://github.com/bahrulajisantoso/bahrulajisantoso/img/dino_rounded.gif?raw=true" href="https://github.com/bahrulajisantoso" width="700"/><br>
+<img src="./img/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="700"/><br>
 <!-- > Tools, languages, and other things that I like to work with. -->
 <!-- 
 <table>

@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/bahrulajisantoso/bahrulajisantoso">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
   </a>
   <a href="https://macropower.readthedocs.io/en/latest">
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <a href="https://reddit.com/u/macropower">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  <a href="https://github.com/bahrulajisantoso?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/bahrulajisantoso?color=green&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
@@ -33,14 +33,8 @@ Here are some ideas to get you started:
 </p>
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/bahrulajisantoso/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
-
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
@@ -182,7 +176,7 @@ Here are some ideas to get you started:
 <!-- links -->
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[issues page]: https://github.com/bahrulajisantoso/bahrulajisantoso/issues "bahrulajisantoso/issues"
 [linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
 
 

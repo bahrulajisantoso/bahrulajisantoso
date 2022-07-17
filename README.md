@@ -26,18 +26,24 @@
   <!-- <a href="https://reddit.com/u/macropower">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
   </a> -->
-  <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/stargazers"><img src="https://img.shields.io/github/stars/bahrulajisantoso/bahrulajisantoso" alt="Stars Badge"/></a>
+  <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/stargazers">
+  <img src="https://img.shields.io/github/stars/bahrulajisantoso/bahrulajisantoso" alt="Stars Badge"/></a>
   
-  <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/network/members"><img src="https://img.shields.io/github/forks/bahrulajisantoso/bahrulajisantoso" alt="Forks Badge"/></a>
+  <!-- <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/network/members">
+  <img src="https://img.shields.io/github/forks/bahrulajisantoso/bahrulajisantoso" alt="Forks Badge"/></a> -->
   
-  <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/pulls"><img src="https://img.shields.io/github/issues-pr/bahrulajisantoso/bahrulajisantoso" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/pulls">
+  <img src="https://img.shields.io/github/issues-pr/bahrulajisantoso/bahrulajisantoso" alt="Pull Requests Badge"/></a>
   
-  <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/issues"><img src="https://img.shields.io/github/issues/bahrulajisantoso/bahrulajisantoso" alt="Issues Badge"/></a>
+  <!-- <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/issues">
+  <img src="https://img.shields.io/github/issues/bahrulajisantoso/bahrulajisantoso" alt="Issues Badge"/></a> -->
   
-  <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/bahrulajisantoso/bahrulajisantoso?color=2b9348"></a>
+  <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/graphs/contributors">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/bahrulajisantoso/bahrulajisantoso?color=2b9348"></a>
   
-  <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/blob/master/LICENSE"><img src="https://img.shields.io/github/license/bahrulajisantoso/bahrulajisantoso?color=2b9348" alt="License Badge"/></a>
-  
+  <!-- <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/bahrulajisantoso/bahrulajisantoso?color=2b9348" alt="License Badge"/></a>
+   -->
   <a href="https://github.com/bahrulajisantoso?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bahrulajisantoso?color=green&logo=github">
   </a>

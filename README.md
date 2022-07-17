@@ -66,9 +66,10 @@
 
 </p>
 
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham" alt="stats" />
+<p align="start"> 
+<img src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham" alt="stats" />
 
-<img width="20%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" >
 </p>
 
 <img src="./gif/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="700"/><br>

@@ -56,7 +56,10 @@
   <!-- <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/blob/master/LICENSE">
   <img src="https://img.shields.io/github/license/bahrulajisantoso/bahrulajisantoso?color=2b9348" alt="License Badge"/></a>
    -->
-  <a href="https://github.com/bahrulajisantoso?tab=followers">
+</p>
+
+<p>
+ <a href="https://github.com/bahrulajisantoso?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bahrulajisantoso?color=green&logo=github">
   </a>
   

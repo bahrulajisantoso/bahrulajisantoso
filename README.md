@@ -68,8 +68,8 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham" alt="stats" />
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham" alt="stats" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" />
+<p align="end"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" />
 
 <img src="./gif/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="700"/><br>

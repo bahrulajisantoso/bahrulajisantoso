@@ -56,20 +56,18 @@
   <!-- <a href="https://github.com/bahrulajisantoso/bahrulajisantoso/blob/master/LICENSE">
   <img src="https://img.shields.io/github/license/bahrulajisantoso/bahrulajisantoso?color=2b9348" alt="License Badge"/></a>
    -->
-</p>
-
-<p>
- <a href="https://github.com/bahrulajisantoso?tab=followers">
+  <a href="https://github.com/bahrulajisantoso?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bahrulajisantoso?color=green&logo=github">
   </a>
   
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
+
 </p>
 
 <p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham" alt="stats" />
 
-<p align="end"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" />
+<p align="end"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" />
 
 <img src="./gif/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="700"/><br>

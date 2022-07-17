@@ -67,7 +67,7 @@
 </p>
 
 <p align="start"> 
-<img src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham" alt="stats" />
+<img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham" alt="stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" >
 </p>

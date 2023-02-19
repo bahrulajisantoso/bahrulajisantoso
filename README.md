@@ -69,7 +69,7 @@
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham" alt="stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" >
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" >
 </p>
 
 <img src="./gif/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="780"/><br>

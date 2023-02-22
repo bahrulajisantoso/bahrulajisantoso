@@ -60,7 +60,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bahrulajisantoso?color=green&logo=github">
   </a>
   
-  <br>
+  </br>
   
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">

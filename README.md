@@ -44,8 +44,8 @@
   <a href="">
   <img src="https://img.shields.io/github/last-commit/bahrulajisantoso/bahrulajisantoso" alt="last update" />
   </a>
+
   <a href="">
-  
   <img src="https://img.shields.io/github/commit-activity/m/bahrulajisantoso/bahrulajisantoso" alt="last update" />
   </a>
 
@@ -59,6 +59,8 @@
   <a href="https://github.com/bahrulajisantoso?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bahrulajisantoso?color=green&logo=github">
   </a>
+  
+  <br>
   
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">

@@ -13,7 +13,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/bahrulajisantoso/bahrulajisantoso">
     <img src="https://komarev.com/ghpvc/?username=bahrulajisantoso" alt="page views" />
   </a>
@@ -65,12 +65,12 @@
   </a>
 </p>
 
-<p align="center"> 
+<p align="left"> 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham" alt="stats" />
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" >
 </p>
 
-<p align="center">
+<p align="left">
 <img src="./gif/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="720"/><br>
 </p>

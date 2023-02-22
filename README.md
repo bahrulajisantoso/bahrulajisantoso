@@ -60,14 +60,12 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bahrulajisantoso?color=green&logo=github">
   </a>
   
-  </br>
-  
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
 
-<p align="left"> 
+<p align="center"> 
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham" alt="stats" />
 

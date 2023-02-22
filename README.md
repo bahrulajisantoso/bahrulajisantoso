@@ -45,6 +45,10 @@
   <img src="https://img.shields.io/github/last-commit/bahrulajisantoso/bahrulajisantoso" alt="last update" />
   </a>
 
+  <a href="">
+  <img src="https://img.shields.io/github/commit-activity/m/bahrulajisantoso/bahrulajisantoso" alt="last update" />
+  </a>
+
   <!-- <a href="">
   <img src="https://img.shields.io/github/last-commit/bahrulajisantoso/bahrulajisantoso?style=flat-square&cacheSeconds=86400" alt="last update" />
   </a> -->
@@ -55,10 +59,6 @@
 </p>
 
 <p align="left">
- <a href="">
-  <img src="https://img.shields.io/github/commit-activity/m/bahrulajisantoso/bahrulajisantoso" alt="last update" />
-  </a>
-
  <a href="https://github.com/bahrulajisantoso?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bahrulajisantoso?color=green&logo=github">
   </a>

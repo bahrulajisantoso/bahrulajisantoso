@@ -13,7 +13,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/bahrulajisantoso/bahrulajisantoso">
     <img src="https://komarev.com/ghpvc/?username=bahrulajisantoso" alt="page views" />
   </a>

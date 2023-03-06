@@ -75,5 +75,5 @@
 </p>
 
 <p align="left">
-<img src="./gif/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="720"/><br>
+<img src="./gif/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="700"/><br>
 </p>

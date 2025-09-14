@@ -40,9 +40,9 @@
 
   <!-- <img width="800" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" > -->
 
-<img width="367" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahrulajisantoso&theme=github_dark" alt="top-languages-repo" >
+<img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahrulajisantoso&theme=github_dark" alt="top-languages-repo" >
 
-<img width="367" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahrulajisantoso&theme=github_dark" alt="top-languages-commit" >
+<img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahrulajisantoso&theme=github_dark" alt="top-languages-commit" >
 
 </p>
 

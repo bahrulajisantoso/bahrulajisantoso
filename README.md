@@ -21,7 +21,7 @@
   <a href="https://github.com/bahrulajisantoso/bahrulajisantoso">
     <img src="https://komarev.com/ghpvc/?username=bahrulajisantoso" alt="page views" />
   </a>
- 
+
  <a href="https://github.com/bahrulajisantoso?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bahrulajisantoso?color=green&logo=github" alt="followers">
   </a>
@@ -31,18 +31,23 @@
   </a>
 </p>
 
-<p align="left"> 
-  <img width="380" height="160" src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham&include_all_commits=true&count_private=false" alt="stats" />
-
-  <img width="340" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" >
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahrulajisantoso&theme=github_dark" alt="summary" width="800" />
 </p>
 
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahrulajisantoso&theme=github_dark" alt="summary" style="width: 700;">
-</div>
+<p align="left"> 
+  <!-- <img width="380" height="160" src="https://github-readme-stats.vercel.app/api?username=bahrulajisantoso&show_icons=true&theme=gotham&include_all_commits=true&count_private=false" alt="stats" /> -->
+
+  <!-- <img width="800" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" > -->
+
+<img width="367" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahrulajisantoso&theme=github_dark" alt="top-languages-repo" >
+
+<img width="367" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahrulajisantoso&theme=github_dark" alt="top-languages-commit" >
+
+</p>
 
 ---
 
 <p align="left">
-  <img src="./gif/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="700"/><br>
+  <img src="./gif/dino_rounded.gif" href="https://github.com/bahrulajisantoso" width="800"/><br>
 </p>

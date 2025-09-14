@@ -37,6 +37,10 @@
   <img width="340" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrulajisantoso&layout=compact&theme=gotham" alt="languages" >
 </p>
 
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahrulajisantoso&theme=github_dark" alt="summary" style="width: 700;">
+</div>
+
 ---
 
 <p align="left">
